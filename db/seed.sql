@@ -1,5 +1,5 @@
 -- Connect to the database
-\c employees
+\c hrTracker_db
 
 INSERT INTO department
     (name)

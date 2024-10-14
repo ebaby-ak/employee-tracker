@@ -10,8 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "asciiart-logo": "^0.2.6",
-    "inquirer": "8.2.4",
+    "dotenv": "^16.4.5",
+    "inquirer": "^8.2.4",
     "pg": "^8.11.3"
   }
 }
- 
