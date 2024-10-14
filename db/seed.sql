@@ -1,6 +1,3 @@
--- Connect to the database
-\c hrTracker_db
-
 INSERT INTO department
     (name)
 VALUES

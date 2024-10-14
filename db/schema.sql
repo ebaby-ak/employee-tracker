@@ -1,11 +1,11 @@
 -- Drop the database if it exists
-DROP DATABASE IF EXISTS hrTracker_db;
+DROP DATABASE IF EXISTS employees;
 
 -- Create the new database
-CREATE DATABASE hrTracker_db;
+CREATE DATABASE employees;
 
 -- Connect to the database
-\c hrTracker_db
+\c employees
 
 -- Create the department table
 CREATE TABLE department (
@@ -30,6 +30,6 @@ CREATE TABLE employee (
   first_name VARCHAR(30) NOT NULL,
   last_name VARCHAR(30) NOT NULL,
   role_id INTEGER NOT NULL,
-  manager_id INTEGER,
+  manager_id INTEGER
 );
 
