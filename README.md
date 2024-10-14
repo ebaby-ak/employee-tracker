@@ -55,10 +55,10 @@ None
 
 ## Example
 **CLI Employee Tracker:**
-[Example]()
+![](./images/example-db.png)
 
 ## Walkthrough
-[Walkthrough Video Link]()
+[Walkthrough Video Link](https://drive.google.com/file/d/1xmen5343KJRTeisf0Nd2l0SFC1hS6JyB/view?usp=sharing)
 
 ## Questions
 For any questions, please reach out at:
